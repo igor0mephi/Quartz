@@ -14,7 +14,9 @@ import static org.quartz.DateBuilder.evenMinuteDate;
 import static org.quartz.JobBuilder.newJob;
 import static org.quartz.SimpleScheduleBuilder.simpleSchedule;
 import static org.quartz.TriggerBuilder.newTrigger;
-
+/*
+Trying to use quartz framework for batch
+ */
 public class Main {
 
     public void run() throws Exception {
